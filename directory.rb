@@ -1,3 +1,4 @@
+amount_of_students = 12
 puts "the students of villains academy"
 puts "--------------"
 puts "dr. hannibal lecter"
@@ -11,6 +12,4 @@ puts "freddy krueger"
 puts "the joker"
 puts "joffrey baratheon"
 puts "norman Bates"
-amount_of_students = 12
-print "overall we have #{amount_of_students}"
-puts "great students"
+print "overall we have #{amount_of_students} great student"
