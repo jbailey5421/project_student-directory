@@ -11,3 +11,6 @@ puts "freddy krueger"
 puts "the joker"
 puts "joffrey baratheon"
 puts "norman Bates"
+amount_of_students = 12
+print "overall we have #{amount_of_students}"
+puts "great students"
